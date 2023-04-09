@@ -27,7 +27,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PRODUCT         Atalante
 
 /* via */
-#define DYNAMIC_KEYMAP_LAYER_COUNT 4
+#define DYNAMIC_KEYMAP_LAYER_COUNT 5
 
 /* key matrix size */
 #define MATRIX_ROWS 10
